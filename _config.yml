@@ -1,0 +1,169 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Ruben Gutierrez
+title: Senior Recruitment Specialist
+email: ruben.gutierrez89@gmail.com
+website: ""
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+# twitter_username: facespics
+# github_username:  martinmarroyo
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: ruben-j-gutierrez
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profilepic.jfif
+about_content: | # this will include new lines to allow paragraphs
+  Hi. I'm Ruben Gutierrez.
+
+  I'm a dedicated talent acquisition professional with expertise in full-cycle recruiting, diversity and inclusion, as well as staff learning and development. My experience spans both corporate and non-profit sectors, where I've excelled at building strong relationships, leveraging digital tools, and making data-driven decisions to enhance recruitment processes.
+
+  As a skilled communicator and strategic thinker, I'm passionate about mentoring and coaching others to create a positive impact. In my free time, I enjoy photography, traveling, hiking, Brazilian jiu-jitsu, and reading. Fluent in English and proficient in Spanish, my diverse background and genuine enthusiasm make me a valuable addition to any talent acquisition team.
+
+content:
+  
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Redbubble, Inc.
+        link: https://www.redbubble.com/
+        # link_text: boringcompany.com
+        sub_title: Global Talent Partner
+        caption: October 2021 - Present
+        quote: >
+          Redbubble is a global online marketplace for print-on-demand products based on user-submitted artwork. The company was founded in 2006 in Melbourne, Australia, and also maintains offices in San Francisco and Berlin. 
+        description: | # this will include new lines to allow paragraphs
+          In my role at Redbubble, Inc., I collaborated with leadership across San Francisco, Melbourne, and Berlin to manage the full-cycle hiring process. My efforts in identifying and sourcing diverse talent and providing strategic coaching played a vital role in boosting company diversity. I contributed to staff retention by developing talent acquisition best practices and creating monthly training modules, as well as enhancing learning and development programs that supported the onboarding and growth of over 120 new hires.
+      - layout: left
+        title: Year Up 
+        link: https://www.yearup.org/
+        # link_text: boringcompany.com
+        sub_title: Talent Acquisition Manager
+        caption: January 2022 - Present
+        quote: >
+          Year Up's job training program is tuition free, and offers access to today's best companies and a proven path to career success.
+        description: | # this will include new lines to allow paragraphs
+          As a Talent Acquisition Manager at Year Up, I focused on streamlining the talent management process for improved candidate identification, interviewing, and onboarding. I evaluated resumes, conducted interviews, and provided recruitment workflow analysis to guide leaders, managers, and other stakeholders. By optimizing HR processes and scouting strategies, I expanded the talent pool through passive candidate sourcing from career sites and social media platforms.
+        
+      - layout: left
+        title: Year Up 
+        link: https://www.yearup.org/
+        # link_text: boringcompany.com
+        sub_title: Program Manager
+        caption: October 2019 - April 2021
+        description: | # this will include new lines to allow paragraphs
+          In my role as Program Manager at Year Up, I led and supported a dynamic team, embodying the organization's culture, values, and operating principles. I took the reins in managing the learning community's daily and annual operations, including staff assignments, curriculum development, training, internship placements, and recruitment efforts. By harnessing the power of Salesforce data, I gained insights into student performance trends and implemented strategic program improvements.
+      
+      - layout: left
+        title: Year Up 
+        link: https://www.yearup.org/
+        sub_title: Recruitment Specialist
+        caption: October 2017 - September 2019
+        description: | # this will include new lines to allow paragraphs
+          As a Recruitment Specialist at Year Up, I forged meaningful connections with local high schools, community-based organizations, and faith-based organizations to expand the candidate pool. By engaging 100+ potential candidates per month through captivating information sessions and effective social media/print ad placements, I made a direct impact on our recruitment efforts. Additionally, I played a key role in data governance by managing the data entry and validation workflow for Year Up's national Salesforce database, fueling data-driven process improvements and recruitment goal achievements.
+
+      - layout: left
+        title: NADAP
+        link: https://www.nadap.org/
+        sub_title: Outreach and Engagement Specialist
+        caption: March 2017 - October 2017
+        quote: >
+          Helping New Yorkers become self-sufficient through healthcare and employment services
+        description: | # this will include new lines to allow paragraphs
+          Working as an Outreach and Engagement Specialist at NADAP, I enhanced client engagement by delivering clear and impactful program information and updates. My commitment to assisting clients with enrollment in applicable services increased their eligibility for program involvement and the likelihood of successful job placements. I took pride in expanding our network and program visibility by participating in external job/resource fairs, internal open houses, and engaging presentations.
+  
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: New York City College of Technology
+        sub_title: Associate of Applied Science in Information Technology
+        quote: >
+          Western Governors University is an online university where you can earn an affordable, accredited, career-focused college degree at an accelerated pace.
+        description: | # this will include new lines to allow paragraphs
+          The associate in applied science (AAS) in Computer Information System (CIS) prepares students for entry level careers in: computer programming, database programming and administration, web programming, and systems/network administration and support. It also provides students with a solid foundation in the field of computer systems which enables them to make a seamless transition to the bachelor of technology in Computer Systems. This curriculum is well balanced between the technical requirements and the liberal arts requirements. The curriculum also introduces students to the business world. Students are required to complete a semester of accounting and a semester in business management, to provide familiarity with the contexts in which computer systems are commonly used.
+
+  - title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Institute for Integrative Nutrition
+        link: https://www.integrativenutrition.com/the-health-coach-training-program
+        sub_title: Certification of Integrative Nutrition Health Coach
+        quote: >
+          Reframe what you know about health and wellness to live a fulfilling life
+        description: | # this will include new lines to allow paragraphs
+          The Health Coach Training Program is a comprehensive, integrated and dynamic program that includes content and activities related to holistic nutrition and lifestyle.
+      - layout: left
+        title: Next Level Trainings
+        link: https://www.nextleveltrainings.com/about
+        sub_title: Emotional Intelligence VIP Graduate (Level 3)
+        quote: >
+          Unlock Your Power, Passion, And Purpose
+        description: | # this will include new lines to allow paragraphs
+          Next Level is a transformational training organization that supports people in unlocking their power, passion and purpose. Founded in 2014, Next Level Trainings set out to bring extraordinary results in the Columbus and Philadelphia communities and beyond. The trainings are innovative and have been meticulously designed to create positive impact and lasting results. We draw on theories from psychology, linguistics, neuroscience, sociology, and organizational development to create transformation in individuals and teams.
+      - layout: left
+        title: Year Up
+        link: https://www.yearup.org/
+        sub_title: Professional Development Program in Financial Operations
+
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Digital Skills
+        description: | # this will include new lines to allow paragraphs
+          Salesforce, Workday, Greenhouse, Confluence, Microsoft Office Suite (Word,  PowerPoint, Excel), Google Suite, Final Cut Pro X, iMovie 10
+      - layout: left
+        title: Languages
+        description: | # this will include new lines to allow paragraphs
+          English, Spanish (Intermediate)
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
